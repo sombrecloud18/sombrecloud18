@@ -1,2 +1,4 @@
-# Hi there, I'm Kate! (https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-### Computer science student, IT news writer from Russia 
+# Hi there, I'm Kate! 
+
+![Фоточка](![image](https://github.com/user-attachments/assets/0c7c0ff1-2912-4179-8955-a2bbb435a960)
+.jpg "Ну я")
