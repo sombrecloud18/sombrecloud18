@@ -1,7 +1,4 @@
 # Hi there, I'm Kate! 
-<div id="header">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXc3ejBqYXdxMndmMmpvbmdkMXptMnRocjZrYmVsMmpmb2kwbnBmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="300"/>
-</div>
 
 ## :hammer_and_wrench: Навыки
 <div>
